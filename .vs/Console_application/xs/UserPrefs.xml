@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{31CC282E-BED1-445B-87F3-2A814F2CCBE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameEngine/Game.cs">
+    <Files>
+      <File FileName="Console_application/Program.cs" Line="1" Column="1" />
+      <File FileName="MenuSystem/Menu.cs" Line="2" Column="1" />
+      <File FileName="MenuSystem/MenuItem.cs" Line="44" Column="1" />
+      <File FileName="GameEngine/Game.cs" Line="1" Column="1" />
+      <File FileName="GameEngine/GameEngine.cs" Line="7" Column="10" />
+      <File FileName="ConsoleUI/GameUI.cs" Line="20" Column="45" />
+      <File FileName="GameEngine/CheckSequence.cs" Line="2" Column="34" />
+      <File FileName="../LineCheck.cs" Line="10" Column="22" />
+      <File FileName="GameEngine/CheckLine.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Console_application" expanded="True" selected="True">
+            <Node name="Console_application" expanded="True" />
+            <Node name="ConsoleUI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Console__application PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
